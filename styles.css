@@ -27,5 +27,30 @@ nav{
    border-bottom: 2px solid antiquewhite;
    width: 50px;
    padding: 5px;
-
+}
+.main-div{
+   width: 100vw;
+   padding: 80px ;
+     display: flex;
+     justify-content: space-around;
+} 
+.write-up{
+    width: 350px;
+    margin: 100px;
+}
+p{
+width: 300px;
+margin-top: 10px;
+}
+.btn{
+    margin-top: 100px;
+}
+.first, .second{
+padding: 8px;
+margin: 8px;
+border-radius: 8px;
+}
+.first{
+    background-color: black;
+    color: white;
 }
